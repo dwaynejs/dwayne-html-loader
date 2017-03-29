@@ -1,10 +1,10 @@
 {
   "name": "dwayne-html-loader",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "lib/loader.js",
   "dependencies": {
     "loader-utils": "^1.0.3",
-    "parse-dwayne-html": "^0.0.2"
+    "parse-dwayne-html": "^0.1.0"
   },
   "devDependencies": {
     "babel-core": "^6.23.1",
