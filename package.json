@@ -1,6 +1,6 @@
 {
   "name": "dwayne-html-loader",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "main": "lib/loader.js",
   "dependencies": {
     "loader-utils": "^1.0.3",
