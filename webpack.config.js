@@ -20,7 +20,8 @@ module.exports = {
         loader: 'dwayne-html-loader',
         exclude: /node_modules/,
         options: {
-          keepOriginal: false
+          keepOriginal: true,
+          exportFunction: true
         }
       },
       { test: /\.pug$/, loader: 'babel-loader!dwayne-html-loader!pug-html-loader', exclude: /node_modules/ },
